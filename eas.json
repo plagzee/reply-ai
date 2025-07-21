@@ -12,10 +12,7 @@
       "distribution": "internal"
     },
     "production": {
-      "autoIncrement": true,
-      "android": {
-        "packageFormat": "apk"
-      }
+      "autoIncrement": true
     }
   },
   "submit": {
